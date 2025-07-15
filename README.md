@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 💬 I am Yihao Meng (蒙祎昊), currently a second year Ph.D. student in HKUST VisLab, at the Department of Computer Science and Engineering of the Hong Kong University of Science and Technology (HKUST), supervised by <a href='http://huamin.org/'>Prof. Huamin Qu</a>.
-- 🔭 My research interest focus on Generative AI and Human-AI Collaboration. I am particularly interested in controllable aned long video generation.
+- 🔭 My research interest focus on Generative AI and Human-AI Collaboration. I am particularly interested in controllable and long video generation.
 - 📫 How to reach me: **[ymengas@connect.ust.hk](mailto:ymengas@connect.ust.hk)**.
 
 [Personal Page](https://yihao-meng.github.io/) 
