@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 💬 I am Yihao Meng (蒙祎昊), currently a third year Ph.D. student in HKUST, CSE. I am currently a research scientist intern at NVIDIA Spatial Intelligence Lab. Previously I interned at Ant Group(LingBot) working on LingBot-world.
+- 💬 I am Yihao Meng (蒙祎昊), currently a third year Ph.D. student in HKUST, CSE. I am currently a research scientist intern at NVIDIA Spatial Intelligence Lab. Previously I interned at Ant Group (LingBot) working on LingBot-world.
 - 🔭 My research interest focus on video generation and world models.
 - 📫 How to reach me: **[ymengas@connect.ust.hk](mailto:ymengas@connect.ust.hk)**.
 
